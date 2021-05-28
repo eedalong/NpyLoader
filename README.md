@@ -1,2 +1,2 @@
 # NpyLoader
-load npy file in c++
+NpyLoader is about load npy file in c++
